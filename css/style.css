@@ -67,8 +67,8 @@
 
 /*** Layout ***/
 .sidebar {
-    position: fixed;
-    top: 0;
+    position: absolute;
+    top: 65px;
     left: 0;
     bottom: 0;
     width: 250px;
@@ -197,7 +197,7 @@
 }
 
 .content .navbar .dropdown-toggle::after {
-    margin-left: 6px;
+    margin-left: 0px;
     vertical-align: middle;
     border: none;
     content: "\f107";
@@ -212,7 +212,7 @@
 
 @media (max-width: 575.98px) {
     .content .navbar .navbar-nav .nav-link {
-        margin-left: 15px;
+        margin-left: 0px;
     }
 }
 
