@@ -1,0 +1,6 @@
+{
+    "css.styleSheets": [
+        "css/bootstrap.min.css",
+        "css/style.css"
+    ]
+}
