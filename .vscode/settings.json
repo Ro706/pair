@@ -2,5 +2,6 @@
     "css.styleSheets": [
         "css/bootstrap.min.css",
         "css/style.css"
-    ]
+    ],
+    "liveServer.settings.port": 5531
 }
